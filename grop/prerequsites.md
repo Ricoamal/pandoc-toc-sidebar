@@ -1,4 +1,4 @@
-# Getting Started
+# Prerequsites
 
 ## Getting Super Powers
 
@@ -13,24 +13,6 @@ $ give me super-powers
 {% endhint %}
 
 Once you're strong enough, save the world:
-
-{% tabs %}
-{% tab title="First Tab" %}
-
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
-
-{% tab title="" %}
-
-{% endtab %}
-
-{% tab title="" %}
-
-{% endtab %}
-{% endtabs %}
 
 {% code title="hello.sh" %}
 ```bash
